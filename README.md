@@ -1,19 +1,3 @@
-# NckuHealthEdu 
-程式名稱：
-
-開發團隊：成大醫院心臟內科醫師帶領
-
-開發平台：iOS (Xcode)
-
-
-## 後台需求
-一個 Server 提供 Restful API
-因為裡面所提到的衛教文章，其實都是每次向後台存取的 JSON 解析而成的。
-
-## 管理經營需求
-希望能和現行電子報結合，共用後台文章資料庫，只是各自用不同介面呈現。
-
-
 # Project Name: NCKU HealthEdu App 衛教成大
 
 ## About
@@ -21,7 +5,9 @@ This project is an iOS app developed by a team of cardiologists and medical stud
 
 ## Features
 📚 Access a wide range of health education articles and resources.
+
 🌍 User-friendly interface for easy navigation and reading.
+
 📩 Integration with the existing newsletter system to share articles and updates.
 ⚙️ Seamless backend integration with a server providing Restful API for efficient data retrieval and parsing.
 
