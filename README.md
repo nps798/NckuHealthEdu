@@ -1,5 +1,5 @@
 # Project Name: NCKU HealthEdu App 衛教成大
-![App Logo]([link-to-your-logo-image](https://raw.githubusercontent.com/nps798/NckuHealthEdu/master/HealthEdu/Assets.xcassets/copyright.imageset/copyright%402.png))
+![App Logo](https://github.com/nps798/NckuHealthEdu/blob/527c32250fa6b8854789d74461267ff0df701a62/HealthEdu/Assets.xcassets/copyright.imageset/copyright.png)
 
 ## About
 This project is an iOS app developed by a team of cardiologists and medical students from the National Cheng Kung University Hospital. The app aims to provide health education materials to the users and raise awareness about general health and preventive medicine.
