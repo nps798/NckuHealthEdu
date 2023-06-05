@@ -35,6 +35,6 @@ We welcome contributions from the open-source community. If you have any ideas, 
 This project is not intended to used in other hospital. 
 
 ## Contact
-For any inquiries or feedback, please contact the development team at [email@example.com](mailto:email@example.com).
+For any inquiries or feedback, please contact the development team at [nps798@gmail.com](mailto:nps798@gmail.com).
 
 Enjoy exploring the world of health education with NCKU HealthEdu App! 🌱🏥
